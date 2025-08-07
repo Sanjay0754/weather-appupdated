@@ -1,0 +1,7 @@
+echo "# weather-appupdated" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Sanjay0754/weather-appupdated.git
+git push -u origin main
